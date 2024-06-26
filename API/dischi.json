@@ -1,0 +1,38 @@
+[
+    {
+        "image": "https://m.media-amazon.com/images/I/81Y4qDEwVvL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "name": "New Jersey",
+        "sing": "Bon Jovl",
+        "anno": "1988"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/51sEGJgDyZL._SX300_SY300_QL70_ML2_.jpg",
+        "name": "Live at Wembley 86",
+        "sing": "Quenn",
+        "anno": "1992"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71PMUHarKDL.__AC_SY300_SX300_QL70_ML2_.jpg",
+        "name": "Ten's Summoner's Tales",
+        "sing": "Sting",
+        "anno": "1993"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81rIAyFN7vL._AC_SX450_.jpg",
+        "name": "Steve Gadd band",
+        "sing": "Steve Gadd band",
+        "anno": "2018"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/91+WLtG6nML._SY300_.jpg",
+        "name": "Brave new World",
+        "sing": "Iron Maiden",
+        "anno": "2000"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/81MDAIdh78L.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "name": "One more car one more rider",
+        "sing": "Eric Clapton",
+        "anno": "2002"
+    }
+]
