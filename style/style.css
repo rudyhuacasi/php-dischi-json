@@ -1,0 +1,19 @@
+.w-5{
+    width: 5%;
+}
+.gap{
+    gap: 3rem 8.8rem;
+}
+.misura{
+    height: 65%;
+}
+[v-cloak] {
+    display: none;
+}
+.avanti{
+    z-index: 50;
+}
+.modal-content {
+    background-color: #222;
+    color: #fff;
+}
